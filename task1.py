@@ -1,3 +1,5 @@
+# task 1: basic mathematical operations
+
 # user inputs
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
